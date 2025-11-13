@@ -5,7 +5,7 @@
 
 ## 📈 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelJalinas&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJalinas&layout=compact&theme=github_dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJalinas&layout=compact)
 
 <h3 align="left">🛠️ Technologies & Tools Used</h3>
 
